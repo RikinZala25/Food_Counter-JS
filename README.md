@@ -1,4 +1,4 @@
-# JavaScript_Standalone_Project
+# Food Counter using JS
 
 Project Given by Instructor Yassin Marcro in JavaScript for Begineers - Udemy
 
